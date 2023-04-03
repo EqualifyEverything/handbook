@@ -19,7 +19,7 @@ Equalify's tools test the usability of digital assets. Most of our tools promote
 
 Beyond our tools, we make our code and company information available to anyone.
 
-Find the core of our codebase at https://github.com/equalifyapp/. All code is published under the **[GNU Affero General Public License Version 3](https://www.gnu.org/licenses/agpl-3.0.en.html)**. Our core code contribution guidelines also value easily understandable code written in well-known languages.
+Find the core of our codebase at https://github.com/equalifyapp/. All code is published under the[GNU Affero General Public License Version 3](https://www.gnu.org/licenses/agpl-3.0.en.html). Our core code contribution guidelines also value easily understandable code written in well-known languages.
 
 Organizational information, policies, and procedures are published here in our handbook (https://github.com/equalifyapp/handbook). 
 
