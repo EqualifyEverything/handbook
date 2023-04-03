@@ -26,7 +26,7 @@ That ARR proves our product and provides the groundwork for additional fundraisi
 
 ## Why $500k?
 
-While Blake is getting sales for Equalify, he will be hiring a team. $500k includes the cost of that team, plus modest expenses. (See [Budget.md](/Budget.md).
+While Blake is getting sales for Equalify, he will be hiring a team. $500k includes the cost of that team, plus modest expenses. (See [Budget.md](/Budget.md)).
 
 ## How does Equalify get sales?
 
