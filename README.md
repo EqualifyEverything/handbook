@@ -9,6 +9,8 @@ Equalify is a platform for managing website accessibility.
 
 Our service builds dynamic reports of website accessibility over digital assets. We also integrate with existing accessibility services, providing a single dashboard for all their web accessibility needs.
 
+Most users access our service at https://equalify.app/.
+
 ## What are Equalify's values?
 
 **Equalify values access above all else.** We are driven by the belief that everyone should have access to the internet tools and information they need. That value pushes us to build a culture of openness that values mutual respect and the free exchange of information to reach better metrically defined solutions.
