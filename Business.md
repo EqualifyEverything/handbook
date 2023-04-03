@@ -60,6 +60,7 @@ To generate leads, Blake will:
     - Gov Reporting Outreach Campaign
     - HigherEd Outreach Campaign
 - Distribution Case Studies to related organizations.
+- Include Stakeholders in open-source design process.
 - Deploy open-source (e.g., Reporting) and managed (i.e., multi-user accounts) features that interest target user and lead to sales. *Note: all open-source features that Blake spends his time on will have to answer the question, "How does this feature lead to sustaining Equalify?".. working on these features is fun but doesn't often lead to sales.*
 - Create Pre-visualizations of features that are developed after contracting a project.
 
