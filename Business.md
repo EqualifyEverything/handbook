@@ -13,7 +13,7 @@ We include a set amount of user accounts, scans, and storage with every subscrip
 Subscriptions to Equalify's managed hosting and support start at $25,000 per year. This includes the ability to maintain WCAG compliance for up to 25,000 digital web pages and PDFs, with multiple users supported. Our focus is currently on serving larger organizations that can afford this price point, as we aim to provide excellent support while also building systems to support customers with smaller needs.
 
 ## Is anyone funding Equalify's initial work?
-Blake Bertuccelli-Booth ([@bbertucc](https://github.com/bbertucc)) is funding Equalify’s initial work. Blake is taking meetings with possible investors to keep his options open, but his primary focus is on getting sales. We have also received support from our open source community, [Decubing Web Services](https://decubing.com/), [CivicActions](http://civicactions.com/), and [Pantheon](https://pantheon.io/).
+Blake Bertuccelli-Booth ([@bbertucc](https://github.com/bbertucc)) is funding Equalify’s initial work. Blake is taking meetings with possible investors to keep his options open, but his primary focus is on getting sales. We have also received support from our open source community and in-kind support from employees of [Decubing Web Services](https://decubing.com/) and [CivicActions](http://civicactions.com/).
 
 ## What are Equalify's sales goals?
 
