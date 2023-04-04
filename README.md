@@ -13,8 +13,19 @@ At Equalify, we hold the value of accessibility above all else. We believe that 
 
 We also believe in the value of open source software, which is why all of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join our mission of making website accessibility more inclusive for all users.
 
+## How is Equalify sustained?
+Equalify is sustained through subscriptions to our managed service, available at https://equalify.app. We also rely on contributions from our open source community to sustain and improve our platform. 
+
+## What are Equalify's plans?
+Equalify's mission is to make the web more accessible, and all of our development efforts are focused on achieving this goal. In the near term, we are building a sustainable business model that will support the growth and development of Equalify (see [/Business.md](/Business.md)). We are also committed to fostering a culture of transparency, which is reflected in this notebook.
+
+Once we have established a stable foundation for growth, our plan is to offer managed services that are more affordable for freelancers and smaller organizations. However, smaller organizations can still benefit from our open-source Equalify tools, which are published on GitHub at https://github.com/equalifyapp.
+
+We are constantly seeking new contributions and feedback from our community as we work towards making the web more accessible. By joining our efforts, you can help us achieve our mission and make the web a more inclusive place for all users.
+
+
 ## How do I get in touch with Equalify?
 
-If you want to discuss sales, please email [hello@equalify.app](mailto:hello@equalify.app).
+To discuss sales, please email [hello@equalify.app](mailto:hello@equalify.app).
 
-Post additional questions, bugs, and enhancement requests in a GitHub issue on this or any other repo in the EqualifyApp organization.
+For other questions, such as bug reports or enhancement requests, please open a GitHub issue on any of the repositories in the EqualifyApp organization. We are committed to providing timely and helpful responses to all inquiries and feedback.
