@@ -9,7 +9,7 @@ Here are our committed resources:
 - $2,200.00 came from subscription revenue.
 - $500 came from Digital Ocean to run hosting on their platform.
 - $5,000.00 was donated by Blake Bertuccelli-Booth [@bbertucc](http://github.com/bbertucc) for travel, conferences, and additional development work.
-- 440 hours (11 weeks) is also donated by Blake to spinup Equalify business and generate revenue, starting 4/3/23.
+- 440 hours (11 weeks) is also donated by Blake to spinup Equalify business and generate revenue via the [Bootstrap Equalify](/BootstrapEqualify.md) campaign.
 
 ## Expenses
 Every expense should further the Equalify project:
