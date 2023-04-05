@@ -8,7 +8,7 @@ Secure a contract with one customer that meets our targets (see [/Business.md](/
 
 ## Timeline
 
-April - June 19, with the possibility of extension if the campaign is successful.
+April 3 - June 19, with the possibility of extension if the campaign is successful.
 
 ## Thesis
 
