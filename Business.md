@@ -28,9 +28,6 @@ Subscriptions for Equalify's managed hosting and support start at $25,000 per ye
 ## Who is funding Equalify's initial work?
 Equalify receives support from our open-source community. That support comes in the form of code contributions and issue feedback. Cash needs, such as hosting and bug bounties, are covered by subscription revenues and the savings of Equalify's owner, Blake Bertuccelli-Booth ([@bbertucc](https://github.com/bbertucc)). See [/Accounting.md](/Accounting.md) for a detailed list of revenue, expenses, and budgeting.
 
-## What are Equalify's sales goals?
-Equalify aims to secure contracts valued at $25,000, reaching an annual recurring revenue (ARR) of $500,000. Achieving this ARR demonstrates the product's viability and lays the groundwork for additional fundraising, which would enable hiring a small team to scale confidently.
-
 ## How does Equalify make sure work is useful?
 Work is focused into actions that include clear metric goals and next-steps. Actions are encompassed in campaigns that are intended to test a thesis. 
 
@@ -50,6 +47,9 @@ Leads become Ambassadors when they offer to help get Equalify purchased by their
 
 ### Contracting Customers
 Our goal is to execute contracts valued at $25,000. Contracts outline allowances of scans, storage, and users, and also include support information and billing terms. Once an agreement is approved, we send a bill via Stripe. Some contracts stipulate features that we still need to deploy, which require a 50% upfront payment of the contracted amount. We bill the remaining 50% on feature deployment. Once a bill has been paid, the contract is executed and an organization's main support contact will be sent credentials to start using Equalify.
+
+## What are Equalify's sales goals?
+Equalify aims to secure contracts valued at $25,000, reaching an annual recurring revenue (ARR) of $500,000. Achieving this ARR demonstrates the product's viability and lays the groundwork for additional fundraising, which would enable hiring a small team to scale confidently.
 
 ## How can people get in touch with Equalify?
 To discuss sales, please email [hello@equalify.app](mailto:hello@equalify.app). For other questions, bugs, and enhancement requests, please submit a GitHub issue on this or any other repo.
