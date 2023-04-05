@@ -32,7 +32,9 @@ Equalify receives support from our open-source community. That support comes in 
 Equalify aims to secure contracts valued at $25,000, reaching an annual recurring revenue (ARR) of $500,000. Achieving this ARR demonstrates the product's viability and lays the groundwork for additional fundraising, which would enable hiring a small team to scale confidently.
 
 ## What is Equalify's sales strategy?
-Equalify employs a three-tiered sales process: generating leads, developing ambassadors, and contracting with customers. Each phase represents a different stage in the company's efforts to reach its sales goals and build relationships with customers.
+Equalify focuses actions into campaigns. The latest campaign is "[Bootstrap Equalify](/BootstrapEqualify.md)".
+
+Campaigns are meant to attract customer through a three-tiered sales process: generating leads, developing ambassadors, and contracting with customers. Each phase represents a different stage in the company's efforts to reach its sales goals and build relationships with customers.
 
 ### Generating Leads
 Equalify identifies leads through various methods, such as participating in relevant Slack channels, sponsoring accessibility mixers at conferences, giving conference talks, conducting outreach campaigns with partners, distributing case studies, collaborating with prominent stakeholders on open-source features, and deploying features that interest target users and lead to sales. To qualify as a Lead, an individual must express interest in Equalify, confirm their organization can afford the $25,000 price tag, and engage in a conversation with us.
