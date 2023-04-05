@@ -1,6 +1,19 @@
 # Business
 
-## What does Equalify sell?
+## Equalify's code is open-source. Isn't open-source code bad for business?
+No, working within an open-source license can actually be beneficial for businesses. Here are some reasons why:
+### Community contributions subsidize the cost of development
+When a company releases software as open source, it invites outside developers to contribute to the project. This can lead to faster development and more frequent updates, as well as new ideas and perspectives from contributors. In turn, the cost of development can be subsidized by the community, allowing the company to focus on other areas of the business.
+### Improved reputation and trust
+Open-source software is often seen as more trustworthy and transparent than closed-source software. By releasing code as open source, a company can build a reputation for being open, collaborative, and committed to the community.
+### Access to a wider talent pool
+Many developers are passionate about open source and prefer to work on projects that align with their values. By contributing to open-source projects, companies can attract these developers to their organization and tap into a wider talent pool.
+### Easier customization and integration
+Open-source software is often easier to customize and integrate with other tools, since the code is freely available and can be modified as needed. This can save time and money for businesses that need to tailor software to their specific needs.
+
+For those reasons, we are committed to continuing to release our code under open-source licenses and believe in the power of community-driven development.
+
+## How does Equalify make money?
 
 Equalify sells subscriptions for managed hosting and support of our open-source code.
 
