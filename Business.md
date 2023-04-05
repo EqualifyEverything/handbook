@@ -33,7 +33,7 @@ Work is focused into actions that include clear metric goals and next-steps. Act
 
 The current campaign is the "[Bootstrap Equalify](/BootstrapEqualify.md)" campaign.
 
-## What is Equalify's sales process?
+## What is Equalify's sales strategy?
 
 Equalify's hree-tiered sales process includes generating leads, developing ambassadors, and contracting with customers. Each phase represents a different stage in the company's efforts to reach its sales goals and build relationships with customers.
 
