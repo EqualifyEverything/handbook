@@ -1,6 +1,6 @@
-# Equalify's Handbook
+# Welcome to Equalify!
 
-This document introduces Equalify and our Handbook.
+This document introduces Equalify. The document also introduces our Handbook, the source-of-truth for organizational information.
 
 ## What is the Equalify Handbook?
 The Equalify Handbook, inspired by [GitLab's handbook](https://about.gitlab.com/handbook/), provides comprehensive information about our organization. By making it public, we promote transparency, openness, and support our goal of a more accessible internet.
