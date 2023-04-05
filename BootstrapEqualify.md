@@ -1,6 +1,6 @@
 # "Bootstrap Equalify" Campaign
 
-Blake is leading a campaign to develop Equalify's business. This document outlines the campaign and will be updated as it progresses.
+Blake([@bbertucc](https://github.com/bbertucc)) is leading a campaign to develop Equalify's business. This document outlines the campaign and will be updated as it progresses.
 
 ## Goal
 
