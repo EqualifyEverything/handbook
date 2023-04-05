@@ -25,14 +25,13 @@ Subscriptions to Equalify's managed hosting and support start at $25,000 per yea
 Blake Bertuccelli-Booth ([@bbertucc](https://github.com/bbertucc)) is funding Equalify’s initial work. Blake is taking meetings with possible investors to keep his options open, but his primary focus is on getting sales. We have also received support from our open source community and in-kind support from employees of [Decubing Web Services](https://decubing.com/) and [CivicActions](http://civicactions.com/).
 
 ## What are Equalify's sales goals?
-
 Our goal is to execute contracts valued at $25,000, reaching an annual recurring revenue (ARR) of $500,000. That ARR proves our product and provides the groundwork for additional fundraising. Fundraising would provide a runway allowing us to hire a small team to scale confidently.
 
 ## What is Equalify's sales strategy?
-Equalify has a three-tiered sales process that moves from generating leads to developing ambassadors to contracting customers. Each of these phases represents a different stage in our efforts to reach our sales goals and build relationships with our customers.
+Equalify has a three-tiered sales process that moves from generating leads to developing ambassadors to contracting with customers. Each of these phases represents a different stage in our efforts to reach our sales goals and build relationships with our customers.
 
 ### Generating Leads
-We generate leads by joining and participating in Slack channels for groups related to accessibility and interest groups, sponsoring accessibility mixers at conferences, submitting talks to conferences, deploying outreach campaigns with partners, distributing case studies to related organizations, including stakeholders in open-source design process, and deploying open-source and managed features that interest target users and lead to sales. To qualify as a Lead, the individual must have a discussion with us in which they express interest in Equalify and affirm that their organization can pay for the $25,000 price tag.
+We find leads by joining and participating in Slack channels for groups related to accessibility and interest groups, sponsoring accessibility mixers at conferences, giving talks at conferences, deploying outreach campaigns with partners, distributing case studies to organizations that find them interesting, partnering with prominent stakeholders to design open-source features, and deploying features that interest target users and lead to sales. To qualify as a Lead, the individual must have a discussion with us in which they express interest in Equalify and affirm that their organization can pay for the $25,000 price tag.
 
 Common job titles for leads include “Senior Technical Project Manager,” “Senior Strategist,” “Senior Web Accessibility Administrator,” “IT Architect,”“Technical Lead,” “Senior Manager,” “Web Operations Manager,” “Product Manager,” “Product Owner,” and “Accessibility Director.”
 
