@@ -45,5 +45,5 @@ Leads become Ambassadors when they offer to help get Equalify purchased by their
 ### Contracting Customers
 Our goal is to execute contracts valued at $25,000. Contracts outline allowances of scans, storage, and users, and also include support information and billing terms. Once an agreement is approved, we send a bill via Stripe. Some contracts stipulate features that we still need to deploy, which require a 50% upfront payment of the contracted amount. We bill the remaining 50% on feature deployment. Once a bill has been paid, the contract is executed and an organization's main support contact will be sent credentials to start using Equalify.
 
-##How can people get in touch with Equalify?
+## How can people get in touch with Equalify?
 To discuss sales, please email [hello@equalify.app](mailto:hello@equalify.app). For other questions, bugs, and enhancement requests, please submit a GitHub issue on this or any other repo.
