@@ -4,7 +4,7 @@ Blake is leading a campaign to develop Equalify's business. This document outlin
 
 ## Goal
 
-Secure a contract with one customer that meets our targets (see /Business.md) within eleven weeks. Concurrently, identify new Leads and Ambassadors while refining the sales approach.
+Secure a contract with one customer that meets our targets (see [/Business.md](/Business.md)) within eleven weeks. Concurrently, identify new Leads and Ambassadors while refining the sales approach.
 
 ## Timeline
 
@@ -16,7 +16,7 @@ Securing a contract with one customer will provide enough resources to continue 
 
 ## Actions
 
-The following actions align with the goals outlined in /Business.md. Each action should have a metrically defined objective and timeline, along with potential next steps depending on whether those objectives are met.
+The following actions align with the goals outlined in [/Business.md](/Business.md). Each action should have a metrically defined objective and timeline, along with potential next steps depending on whether those objectives are met.
 
 ### 4/3 - 6/19: Execute Intentional Actions, Documented in a Public Handbook
 
@@ -28,7 +28,7 @@ Two centers at Tulane University have paid to manage their accessibility with Eq
 
 ### 4/3 - 4/12: Website Development Aligned with /Business.md Targets
 
-The current website focuses on selling customized dashboard services. With the updated sales focus in /Business.md, a redesign is necessary. The language will be updated to align with the new focus, and the call to action may be changed to "Request a demo" instead of "Contact Us." The website's effectiveness will be continually tested as the Tulane case study is released. During this period, the goal is to generate leads not directly emailed through the website. If leads are generated, the current approach will be iterated on; otherwise, alternative lead generation methods will be explored.
+The current website focuses on selling customized dashboard services. With the updated sales focus in [/Business.md](/Business.md), a redesign is necessary. The language will be updated to align with the new focus, and the call to action may be changed to "Request a demo" instead of "Contact Us." The website's effectiveness will be continually tested as the Tulane case study is released. During this period, the goal is to generate leads not directly emailed through the website. If leads are generated, the current approach will be iterated on; otherwise, alternative lead generation methods will be explored.
 
 ## Ideas
 
