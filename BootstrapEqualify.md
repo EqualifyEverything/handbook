@@ -34,6 +34,12 @@ The Handbook will be developed as part of other actions. These particular milest
 - 4/7 & 4/10 (3 hrs): Revise Handbook to Close Collaborator comments and set schedule in Google Calendar.
 - 4/28 (3 hrs): Is handbook working toward goals? Assess and decide accordingly. 
 
+### 4/13: Develop Customer Relationship Managment (CRM)
+All aspects of this campaign are furthed by a CRM. The CRM would be an internal database of contacts, organized into categories discussed in [/Business.md](/Business.md). Every new contact would be put in this tool with tracking around last contacts. We'll probably use Notion to maintain our CRM.
+
+The CRM will be developed as part of other actions. These particular milestones can be scheduled:
+- 4/13 (3 hrs): Setup CRM fields in Notion and add existing contacts.
+
 ### 4/10 - 4/28: Develop & Release "Tulane Case Study"
 
 Two centers at Tulane University have paid to manage their accessibility with Equalify. Upon deploying these solutions, a case study will be developed and shared with contacts in the higher education community via Slack and direct email. The objective is to finalize the case study by April 21 and generate at least 20 leads from sharing it in the week following. Meeting this objective will lead to a deeper focus on case studies and the potential for additional discounted work with other organizations. If the objective is not met, the value of case studies will be reevaluated.
