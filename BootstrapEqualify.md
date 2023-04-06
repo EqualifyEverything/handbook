@@ -52,14 +52,14 @@ The Tulane Case Study schedule is as follows:
 The current website focuses on selling customized dashboard services. With the updated sales focus in [/Business.md](/Business.md), a redesign is necessary. The language will be updated to align with the new focus, and the call to action may be changed to "Request a demo" instead of "Contact Us." The website's effectiveness will be continually tested as the Tulane case study is released. During this period, the goal is to generate leads not directly emailed through the website. If leads are generated, the current approach will be iterated on; otherwise, alternative lead generation methods will be explored.
 
 These "Website 2.0" requirements should help toward business goals: 
-- Strict WCAG 2.1 AA conformance and accessibility testing
+- Strict WCAG 2.1 AA conformance and accessibility testing.
 - Clear call to action on every page, quantified by Google Analytics goals.
 - Case studies area for successful case studies.
 
 Web Website 2.0 schedule is as follows:
 - 4/3 - 4/7 (1 hrs): Finalize requirements.
-- 4/8 (4 hrs): Buildout first draft of website
-- 4/10 (3 hrs): Revisions and share draft to network of collaborators.
+- 4/7 (4 hrs): Buildout first draft of website.
+- 4/10 (1 hrs): Revisions and share draft to network of Close Collaborators.
 - 4/11 (3 hrs): Revisions.
 - 4/12 (3 hrs): Launch site to larger network of collaborators. The website will continuously be developed as part of other actions.
 
