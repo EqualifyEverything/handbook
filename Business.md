@@ -37,7 +37,9 @@ The current campaign is the "[Bootstrap Equalify](/BootstrapEqualify.md)" campai
 
 ## What is Equalify's sales strategy?
 
-Equalify's three-tiered sales process includes generating leads, developing ambassadors, and contracting with customers. Each phase represents a different stage in the company's efforts to reach its sales goals and build relationships with customers.
+To keep with our values of transparency and to establish trust with our contacts, we publish information about our sales process.
+
+The process involves categorizing contacts into three categories: "Leads", "Ambassadors", or "Customers". Each category receives a different level of attention, working toward the ultimate goal of contracting with contacts and maintaining them as customers. 
 
 ### Generating Leads
 Equalify identifies leads through various methods, such as participating in relevant Slack channels, sponsoring accessibility mixers at conferences, giving conference talks, conducting outreach campaigns with partners, distributing case studies, collaborating with prominent stakeholders on open-source features, and deploying features that interest target users and lead to sales. To qualify as a Lead, an individual must express interest in Equalify, confirm their organization can afford the $25,000 price tag, and engage in a conversation with us.
