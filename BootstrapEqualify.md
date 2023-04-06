@@ -27,7 +27,7 @@ The following actions align with the goals outlined in [/Business.md](/Business.
 
 ### 4/3 - 6/19: Develop Handbook to Execute Intentional Actions
 
-This entire campaign is an experiment to determine whether intentional actions yield positive results. The handbook will be updated regularly to organize actions. The goal is to secure a contract with one customer while understanding the process leading to that contract. Success will allow for the iteration of actions to grow sales, while failure will prompt a review of materials with trusted advisors and consideration of alternative approaches.
+This entire campaign is an experiment to determine whether intentional actions yield positive results. The handbook will be updated regularly to organize actions. The goal is to secure a contract with one customer while understanding the process leading to that contract. Success will allow for the iteration of actions to grow sales, while failure will prompt a review of materials with trusted advisors and consideration of alternative approaches. (We'll also be testing how much is too much openness with public sharing of this handbook.)
 
 The Handbook will be developed as part of other actions. These particular milestones can be scheduled:
 - 4/3 - 4/6 (20 hrs): Research and brainstorm ideas to define and work toward business outcomes then share handbook with Close Collaborators (6/19), asking if they would like to be shared on future communication and if they have any additional ideas or questions to add to the campaign that could lead to desired results.
