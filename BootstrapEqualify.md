@@ -4,11 +4,11 @@ This document outlines the campaign to develop Equalify's business. The document
 
 ## Goal
 
-Secure a contract with one customer that meets our targets (see [/Business.md](/Business.md)) within eleven weeks. Concurrently, identify new Leads and Ambassadors while refining the sales approach.
+Secure a contract with one customer that meets our targets (see [/Business.md](/Business.md)) within seven weeks. Concurrently, identify new Leads and Ambassadors while refining the sales approach.
 
 ## Timeline
 
-April 3 - June 19, with the possibility of extension if the campaign is successful.
+April 3 - May 26, with the possibility of extension if the campaign is successful. The timeline was set because it is before a Summer break. The Summer break (2 weeks) will be used to understand outcomes. 
 
 ## Collaborators
 Blake([@bbertucc](https://github.com/bbertucc)) is leading a campaign to develop Equalify's business. Feeback will be requested from two networks of collaborators:
@@ -17,9 +17,16 @@ Blake([@bbertucc](https://github.com/bbertucc)) is leading a campaign to develop
 
 In sharing any information with collaborators, there should be a clear ask. 
 
-## Thesis
+## Business Interest
 
-Securing a contract with one customer will provide enough resources to continue building Equalify without the need for external investment. Avoiding outside investment without customers is important to prevent dilution of ownership at a higher rate than if we already had customers. By demonstrating product viability and generating revenue from customers, we can maintain more control over the company and its direction, while potentially attracting better investment terms when needed.
+Securing a contract with one customer will provide enough resources to continue building Equalify without the need for external investment. By demonstrating product viability and generating revenue from customers, we can maintain more control over the company and its direction, while potentially attracting better investment terms when needed.
+
+## Milestones
+- 4/3: Start work.
+- 4/10: Commit and merge updates. They cannot be updated after this, unless mission critical issues.
+- 4/28: Review action and adjust handbook accordingly.
+- 5/1: Commit and merge updates. They cannot be updated after this, unless mission critical issues.
+- 5/26: Last day of work. Review actions and set ideas before Summer Break. May come to new direction after Summer Break.
 
 ## Actions
 
@@ -64,10 +71,10 @@ These "Website 2.0" requirements should help toward business goals:
 
 Web Website 2.0 schedule is as follows:
 - 4/3 - 4/7 (1 hrs): Finalize requirements.
-- 4/7 (4 hrs): Buildout first draft of website.
-- 4/10 (1 hrs): Revisions and share draft to network of Close Collaborators.
-- 4/11 (3 hrs): Revisions.
-- 4/12 (3 hrs): Launch site to larger network of collaborators. The website will continuously be developed as part of other actions.
+- 4/11 (4 hrs): Buildout first draft of website.
+- 4/14 (1 hrs): Revisions and share draft to network of Close Collaborators.
+- 4/17 (3 hrs): Revisions.
+- 4/28 (3 hrs): Launch site to larger network of collaborators. The website will continuously be developed as part of other actions.
 
 ## Ideas
 
