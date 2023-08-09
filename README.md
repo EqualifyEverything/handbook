@@ -11,6 +11,9 @@ Equalify is a platform for managing website accessibility, focused on improving 
 
 At Equalify, we believe that everyone should have access to internet tools and information. Our commitment to access is reflected in both our mission (100 million equalified accessibility issues by 2025) and our business practices, typified by this handbook. Additionally, much of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join our mission of making website accessibility more inclusive for all users. 
 
+## Will this handbook evolve?
+Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
+
 ## How do I get in touch with Equalify?
 
 If you want to discuss sales, please email [hello@equalify.app](mailto:hello@equalify.app).
