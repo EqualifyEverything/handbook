@@ -5,13 +5,11 @@ Equalify's handbook is modeled after [Gitlab's handbook](https://about.gitlab.co
 
 ## What is Equalify?
 
-Equalify is a platform for managing website accessibility, focused on improving conformance to the Web Content Accessibility Guidelines (WCAG). We offer a managed service at https://equalify.app/ and repositories in the [EqualifyApp organization](https://github.com/EqualifyApp/) on GitHub for users to create their own version of Equalify. Users who create their own version are encouraged to contribute to our open source codebase, so that we can work together to make website accessibility more accessible to everyone.
+Equalify is a platform for managing website accessibility, focused on improving conformance to the Web Content Accessibility Guidelines (WCAG). We offer a managed service at https://equalify.app/ and repositories in the [EqualifyApp organization](https://github.com/EqualifyApp/) on GitHub for users to create their version of Equalify. Users who create their version are encouraged to contribute to our open source codebase so that we can work together to make the website accessibility more accessible to everyone.
 
 ## What are Equalify's core values?
 
-At Equalify, we hold the value of accessibility above all else. We believe that everyone should have access to internet tools and information, and this belief drives everything we do. Our commitment to accessibility is reflected in our focus on improving website conformance to the Web Content Accessibility Guidelines (WCAG).
-
-We also believe in the value of open source software, which is why all of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join our mission of making website accessibility more inclusive for all users.
+At Equalify, we believe that everyone should have access to internet tools and information. Our commitment to access is reflected in both our mission (100 million equalified accessibility issues by 2025) and our business practices, typified by this handbook. Additionally, much of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join our mission of making website accessibility more inclusive for all users. 
 
 ## How do I get in touch with Equalify?
 
