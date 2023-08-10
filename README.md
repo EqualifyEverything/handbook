@@ -16,6 +16,6 @@ Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challen
 
 ## How do I get in touch with Equalify?
 
-If you want to discuss sales, please email [hello@equalify.app](mailto:hello@equalify.app).
+Post additional questions, bugs, and enhancement requests under [issues](https://github.com/EqualifyApp/handbook/issues) on this repo.
 
-Post additional questions, bugs, and enhancement requests in a GitHub issue on this or any other repo in the EqualifyApp organization.
+If you want to discuss sales, please email [hello@equalify.app](mailto:hello@equalify.app).
