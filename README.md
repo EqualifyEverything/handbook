@@ -16,7 +16,7 @@ Equalify is a platform for managing website accessibility, focused on improving 
 At Equalify, we believe that everyone should have access to internet tools and information. Our commitment to access is reflected in both our mission (100 million equalified accessibility issues by 2028) and our business practices, typified by this handbook. Additionally, much of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join us in equalifying the internet. 
 
 ## How is Equalify sustained?
-We received investment from awesome funders. We're using that funding to build out (http://equalify.app)[http://equalify.app]. There, you'll be able to purchase access to a managed version of Equalify, fully supported! Subscriptions to our managed service funds continued open source development.
+We received investment from awesome funders. We're using that funding to build out http://equalify.app. There, you'll be able to purchase access to a managed version of Equalify, fully supported! Subscriptions to our managed service funds continued open source development.
 
 ## How will Equalify use funds?
 Much of our funds go to administration, development, and upkeep of the managed service. 
