@@ -16,12 +16,12 @@ Equalify is a platform for managing website accessibility, focused on improving 
 At Equalify, we believe that everyone should have access to internet tools and information. Our commitment to access is reflected in both our mission (100 million equalified accessibility issues by 2028) and our business practices, typified by this handbook. Additionally, much of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join us in equalifying the internet. 
 
 ## How is Equalify sustained?
-We received investment from awesome funders. We're using that funding to build out http://equalify.app. There, you'll be able to purchase access to a managed version of Equalify, fully supported! Subscriptions to our managed service funds continued open source development.
+Equalify is commercialized open source software (COSS). We sustain ourselves by selling subscriptions to our managed service, https://equalify.app. We follow a skinny to thin crust open core model, more info on that [here]([url](https://twitter.com/bbertucc/status/1693449703453589898?s=20)).
 
-## How will Equalify use funds?
+## How does Equalify use funds?
 Much of our funds go to administration, development, and upkeep of the managed service. 
 
-To spread funds around, we occasionally mark issues in repos "Open for Bids". Issues open for bids should consist of a full scope of requirements, due dates, and budget restrictions. Anyone can bid on the projects or ask questions by commenting on the issue with the Open for Bids label. We encourage folks to be transparent about timing, costs, and requirements. We will not necessarily select the lowest price or quickest option. We are looking to pay for work by skilled collaborators who love transparency and can articulate a clear understanding of how to tackle a challenge.
+We understand indie devs need cash, and oftentimes do not have the incentive to contribute to open-source projects. To spread funds around, we occasionally mark issues in repos "Open for Bids" to support independent developers. Issues open for bids should consist of a full scope of requirements, due dates, and budget restrictions. Anyone can bid on the projects or ask questions by commenting on the issue with the Open for Bids label. We encourage folks to be transparent about timing, costs, and requirements. We will not necessarily select the lowest price or quickest option. We are looking to pay for work by skilled collaborators who love transparency and can articulate a clear understanding of how to tackle a challenge.
 
 Once we have a budget to hire full-time employees, we hope that many of our staff have contributed to Equalify via open bids or standard open-source contributions.
 
