@@ -1,5 +1,8 @@
 # The Equalify Handbook
 
+## What does "equalify" mean?
+To "equalify" something is to fix it with an accessibility-first mindset. Accessibility-first means raising the bar of work to guarantee that people with disabilities can use tools and access content with ease.
+
 ## What is the purpose of a handbook?
 Equalify's handbook is modeled after [Gitlab's handbook](https://about.gitlab.com/handbook/) and contains comprehensive information about everything related to Equalify. By publishing our handbook publicly, we're fostering a culture of transparency and openness, and ultimately contributing to a more accessible internet for all.
 
