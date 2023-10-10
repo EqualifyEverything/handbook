@@ -6,7 +6,7 @@ This document introduces Equalify. The document also introduces our Handbook, th
 The Equalify Handbook, inspired by [GitLab's handbook](https://about.gitlab.com/handbook/), provides comprehensive information about our organization. By making it public, we promote transparency, openness, and support our goal of a more accessible internet.
 
 ## What is Equalify?
-Equalify is a platform for managing website accessibility, focusing on enhancing compliance with Web Content Accessibility Guidelines (WCAG). Our managed service is available at https://equalify.app/, and open-source repositories can be found in the [EqualifyApp organization](https://github.com/EqualifyApp). Users utilizing our open-source version and creating their own features are encouraged to contribute back to our project.
+Equalify is a platform for managing website accessibility, focusing on enhancing compliance with Web Content Accessibility Guidelines (WCAG). Our managed service is available at https://equalify.app/, and open-source repositories can be found in the [EqualifyApp organization](https://github.com/EqualifyEverything). Users utilizing our open-source version and creating their own features are encouraged to contribute back to our project.
 
 ## What are Equalify's core values?
 Accessibility is our main priority, ensuring everyone has access to the internet. We also emphasize open source, with our code licensed under the GNU Affero General Public License (AGPL), making it free, open, and modifiable.
