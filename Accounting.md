@@ -5,6 +5,7 @@ Updated 4/5.
 
 ## Resources and Budgeting
 Here are our committed resources:
+- $100,000 came from Automattic via a SAFE investment with $5M post-money value cap.
 - $4,727.40 came from Pantheon via sponsorship of Edupack, which Equalify pivoted from. That money is allocated to expenses.
 - $2,200.00 came from subscription revenue.
 - $500 came from Digital Ocean to run hosting on their platform.
@@ -13,6 +14,8 @@ Here are our committed resources:
 
 ## Expenses
 Every expense should further the Equalify project:
+- $1,120.00: Chris work (17 hrs)
+- $500: Stripe Atlas
 - $169.83: Digital Ocean hosting of a managed version of Equalify.
 - $699.55: Bounties in 2022.
 - $500: Donated to support DrupalCon Portland fundraiser.
