@@ -16,7 +16,7 @@ Equalify is a platform for managing website accessibility, focused on improving 
 
 ## What are Equalify's core values?
 
-At Equalify, we believe that everyone should have access to internet tools and information. Our commitment to access is reflected in both our mission (100 million equalified accessibility issues by 2028) and our business practices, typified by this handbook. Additionally, much of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join us in equalifying the internet. 
+At Equalify, we believe everyone should have access to internet tools and information. Our commitment to access is reflected in both our mission (100 million equalified accessibility issues by 2028) and our business practices, typified by this handbook. Additionally, much of our code is published under the GNU Affero General Public License (AGPL). This license ensures that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join us in equalifying the internet. 
 
 ## How is Equalify sustained?
 Equalify is commercialized open source software (COSS). We sustain ourselves by selling subscriptions to our managed service, https://equalify.app. We follow a skinny to thin crust open core model, more info on that [here]([url](https://twitter.com/bbertucc/status/1693449703453589898?s=20)).
@@ -33,6 +33,6 @@ Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challen
 
 ## How do I get in touch with Equalify?
 
-Post additional questions, bugs, and enhancement requests under [issues](https://github.com/EqualifyApp/handbook/issues) on this repo. Your feedback makes Equalify a better organization.
+Post additional questions, bugs, and enhancement requests under [issues](https://github.com/EqualifyApp/handbook/issues) on this repo. Your feedback makes Equalify a better organization. We also use a Slack for folks building Equalify. Ping [@bbertucc](https://github.com/bbertucc) to join our Slack.
 
 [^1]: https://webaim.org/projects/million/
