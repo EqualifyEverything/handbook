@@ -21,6 +21,9 @@ At Equalify, we believe everyone should have access to internet tools and inform
 ## How is Equalify sustained?
 Equalify is commercialized open source software (COSS). We sustain ourselves by selling subscriptions to our managed service, https://equalify.app. We follow a skinny to thin crust open core model, more info on that [here]([url](https://twitter.com/bbertucc/status/1693449703453589898?s=20)).
 
+## Who owns Equalify?
+Blake Bertuccelli-Booth ([@bbertucc](https://github.com/bbertucc)) currently has ownership of Equalify (see [Legal Docs](https://github.com/EqualifyEverything/equalify-legal/tree/main/signed)). Blake plans to retain ownership until the organization reaches sustainability.
+
 ## How does Equalify use funds?
 Much of our funds go to administration, development, and upkeep of the managed service. 
 
@@ -33,6 +36,6 @@ Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challen
 
 ## How do I get in touch with Equalify?
 
-Post additional questions, bugs, and enhancement requests under [issues](https://github.com/EqualifyApp/handbook/issues) on this repo. Your feedback makes Equalify a better organization. We also use a Slack for folks building Equalify. Ping [@bbertucc](https://github.com/bbertucc) to join our Slack.
+Post additional questions, bugs, and enhancement requests under [issues](https://github.com/EqualifyApp/handbook/issues) on this repo. Your feedback makes Equalify a better organization. We also use Slack for folks building Equalify. You can join our Slack here: https://join.slack.com/t/equalifyapp/shared_invite/zt-1sfbgf0fa-CzIHlbFOs0Ww1iSTK4LQ2w
 
 [^1]: https://webaim.org/projects/million/
