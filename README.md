@@ -29,6 +29,8 @@ All issues are in the main Equalify repo at this URL: http://github.com/equalify
 
 [@kevinandrews1](https://github.com/kevinandrews1) opens and closes issues on Monday. Developers and reviewers add comments to the issue. Hotfixes can be done ad-hoc, approved by [@bbertucc](http://github.com/bbertucc).
 
+Issues are turned off and ignored on every other repos.
+
 ## Will this handbook evolve?
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
 
