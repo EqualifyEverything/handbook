@@ -35,6 +35,6 @@ Issues are turned off and ignored on every other repos.
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
 
 ## How do I get in touch with Equalify?
-Post additional questions, bugs, and enhancement requests under [issues](https://github.com/EqualifyApp/handbook/issues) on this repo. Your feedback makes Equalify a better organization. We also use Slack for folks building Equalify. You can join our Slack here: https://join.slack.com/t/equalifyapp/shared_invite/zt-1sfbgf0fa-CzIHlbFOs0Ww1iSTK4LQ2w
+Post additional questions, bugs, and enhancement requests under the [main repo's "Issues" tab (linked)](https://github.com/EqualifyApp/equalify/issues). Your feedback makes Equalify a better organization. We also use Slack for folks building Equalify. You can join our Slack here: https://join.slack.com/t/equalifyapp/shared_invite/zt-1sfbgf0fa-CzIHlbFOs0Ww1iSTK4LQ2w
 
 [^1]: https://webaim.org/projects/million/
