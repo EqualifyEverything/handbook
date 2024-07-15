@@ -24,6 +24,11 @@ Blake Bertuccelli-Booth ([@bbertucc](https://github.com/bbertucc)) currently has
 ## How does Equalify use funds?
 Our funds go to bounties. We aim to pay people bounties for getting the work of Equalify done. As of now (June 12, 2024), we've budgeted $11k/mo for bounties for the first year, then doubling that number each year after. You can see our budgets in our [Accounting Repo](https://github.com/EqualifyEverything/equalify-accounting/). In Year 5, or whenever we get to sustainability, we'll probably hire people in more traditional employment arrangements. (That will probably also be the time Blake hands over control to someone else, preferably someone who relies on assistive technology.)
 
+## How does Equalify handle change management?
+All issues are in the main Equalify repo at this URL: http://github.com/equalifyEverything/equalify 
+
+[@kevinandrews1](https://github.com/kevinandrews1) opens and closes issues on Monday. Developers and reviewers add comments to the issue. Hotfixes can be done ad-hoc, approved by [@bbertucc](http://github.com/bbertucc).
+
 ## Will this handbook evolve?
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
 
