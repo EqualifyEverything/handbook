@@ -27,9 +27,11 @@ Our funds go to bounties. We aim to pay people bounties for getting the work of 
 ## How does Equalify handle change management?
 All issues are in the main Equalify repo at this URL: http://github.com/equalifyEverything/equalify 
 
-[@kevinandrews1](https://github.com/kevinandrews1) closes issues during our contributor meeting on Monday at 11:11 CST. Developers and reviewers add comments to the issue. Hotfixes can be done ad-hoc, approved by [@bbertucc](http://github.com/bbertucc).
+[@kevinandrews1](https://github.com/kevinandrews1) closes issues during our contributor meeting on Monday at 11:11 CST. Developers and reviewers add comments to the issue. We do this because accessibility is mission-critical. [@kevinandrews1](https://github.com/kevinandrews1) is responsible for accessibility, so he has the last voice on whether a fix is complete are not. Making him responsible for closing issues also allows him to be aware of changes, so that he can update documentation. (Documentation is a key component to Accessibility.)
 
-Issues are turned off and ignored on every other repos.
+Mission-critical hotfixes can be done ad-hoc, approved by [@bbertucc](http://github.com/bbertucc). 
+
+Issues are turned off and ignored on every other repo.
 
 ## Will this handbook evolve?
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
