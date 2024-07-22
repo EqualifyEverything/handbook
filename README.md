@@ -33,6 +33,8 @@ Mission-critical hotfixes can be done ad-hoc, approved by [@bbertucc](http://git
 
 Issues are turned off and ignored on every other repo.
 
+All pull requests to the default branches of repos that push to our production environment require one review by an organization member.
+
 ## Will this handbook evolve?
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
 
