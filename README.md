@@ -35,7 +35,7 @@ Here is how an issue goes to production:
 5. Assignee comments on an issue that the update is on staging.
 6. Update is reviewed by [@kevinandrews1](https://github.com/kevinandrews1) or [@alexstine](https://github.com/alexstine) if it's an accessibility issue or [@bbertucc](http://github.com/bbertucc) if it's any other type of issue, who adds comments or approval.
 7. When update is finalized, Assignee creates a PR to merge with main branch.
-8. Assign PR to a reviewer by [@azdak](https://github.com/azdak), [@wilsuriel03](https://github.com/wilsuriel03) or [@azdak](https://github.com/heythisischris).
+8. Assign PR to a reviewer by [@azdak](https://github.com/azdak), [@wilsuriel03](https://github.com/wilsuriel03), [@alexstine](https://github.com/alexstine) or [@azdak](https://github.com/heythisischris).
 9. When approved, update is merged with main branch.
 10. Comment on an issue that an update is on production.
 11. [@kevinandrews1](https://github.com/kevinandrews1) or [@alexstine](https://github.com/alexstine) if it's an accessibility issue or @bbertucc if it's any other type of issue will run final test and close issue if update is finished.
