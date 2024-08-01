@@ -27,11 +27,18 @@ Our funds go to bounties. We aim to pay people bounties for getting the work of 
 ## How does Equalify handle change management?
 All issues are in the main Equalify repo at this URL: http://github.com/equalifyEverything/equalify 
 
-Anyone can add comments to or open an issue. [@kevinandrews1](https://github.com/kevinandrews1) closes issues related to accessibility; we do this because accessibility is mission-critical. [@kevinandrews1](https://github.com/kevinandrews1) is responsible for accessibility, so he has the last voice on whether a fix is complete are not. Making him responsible for closing issues also allows him to be aware of changes, so that he can update documentation. (Documentation is a key component to Accessibility.) [@bbertucc](http://github.com/bbertucc) closes all other issues and updates docs as needed. 
-
-Mission-critical hotfixes can be done ad-hoc, approved by [@bbertucc](http://github.com/bbertucc). 
-
-Issues are turned off and ignored on every other repo.
+Updates are deployed through this process:
+1. Create a GitHub Issue.
+2. [@bbertucc](http://github.com/bbertucc) will assign someone to the issue or add comments why the issue is being ignored.
+3. Coder working on an issue creates a branch for the update.
+4. Merge any updates with staging branch. 
+5. Comment on an issue that the update is on staging.
+6. Update is reviewed by [@kevinandrews1](https://github.com/kevinandrews1) if it's an accessibility issue or [@bbertucc](http://github.com/bbertucc) if it's any other type of issue.
+7. When update is finalized, create a PR to merge staging with main branch.
+8. Assign PR for review by [@azdak](https://github.com/azdak), [@wilsuriel03](https://github.com/wilsuriel03) and/or [@heythisischris](https://github.com/heythisischris). (One review is required before merge.
+9. When approved, update is merged with main branch.
+10. Comment on an issue that an update is on production.
+11. [@kevinandrews1](https://github.com/kevinandrews1) if it's an accessibility issue or [@bbertucc](http://github.com/bbertucc) if it's any other type of issue will run final test and close issue if update is finished.
 
 ## Will this handbook evolve?
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
