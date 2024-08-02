@@ -32,14 +32,12 @@ Here is how an issue goes to production:
 1. Create a GitHub Issue.
 2. [@bbertucc](http://github.com/bbertucc) will assign someone to the issue.
 3. Assignee creates a branch for the update.
-4. Assignee merges any updates with staging branch. 
-5. Assignee comments on an issue that the update is on staging.
-6. Update is reviewed by [@kevinandrews1](https://github.com/kevinandrews1) or [@alexstine](https://github.com/alexstine) if it's an accessibility issue or [@bbertucc](http://github.com/bbertucc) if it's any other type of issue, who adds comments or approval.
-7. When update is finalized, Assignee creates a PR to merge with main branch.
-8. Assign PR to a reviewer by [@azdak](https://github.com/azdak), [@wilsuriel03](https://github.com/wilsuriel03), [@alexstine](https://github.com/alexstine) or [@azdak](https://github.com/heythisischris).
-9. When approved, update is merged with main branch.
-10. Comment on an issue that an update is on production.
-11. [@kevinandrews1](https://github.com/kevinandrews1) or [@alexstine](https://github.com/alexstine) if it's an accessibility issue or @bbertucc if it's any other type of issue will run final test and close issue if update is finished.
+4. Assignee merges any updates with staging branch.
+5. Assignee comments on an issue that the update is ready for testing and assigns [@bbertucc](http://github.com/bbertucc) to test.
+6. Update is reviewed by [@bbertucc](http://github.com/bbertucc). He may add  [@kevinandrews1](https://github.com/kevinandrews1) or [@alexstine](https://github.com/alexstine) if accessibility needs to be tested.
+7. When update is finalized, [@bbertucc](http://github.com/bbertucc) creates a PR to merge with main branch and assigns [@azdak](https://github.com/azdak), [@wilsuriel03](https://github.com/wilsuriel03), [@alexstine](https://github.com/alexstine) or [@azdak](https://github.com/heythisischris) to review code.
+8. When approved, update is merged with main branch.
+9. [@bbertucc](http://github.com/bbertucc) will run final tests on production and close issue if update is finished.
 
 ### Scheduling Version Releases
 When scheduling a release, everyone needs to agree on a delivery date. Delivery dates are established by creating a detailed list of what will be tested to validate the feature release. Issue [#422](https://github.com/EqualifyEverything/equalify/issues/422) is an example of a detailed list of what is validated for our version one. The date that everyone agrees on is set as a milestone. Related issues are attributed to that milestone. We check in on the progress asynchronously and every contributor meeting.
