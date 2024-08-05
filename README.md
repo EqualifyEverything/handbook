@@ -27,6 +27,11 @@ Our funds go to bounties. We aim to pay people bounties for getting the work of 
 ## How does Equalify handle change management?
 All issues are in the main Equalify repo at this URL: http://github.com/equalifyEverything/equalify 
 
+### Development Process
+Each feature has initial development, functionality testing, accessibility testing, and deployment scoped. The scope includes due date, overview of expectations, and budget.
+
+Issue [#422](https://github.com/EqualifyEverything/equalify/issues/422) is an example of a detailed list of functionality and accessibility tests for our version one. The date that everyone agrees on is set using milestones. We check in on the progress asynchronously and every contributor meeting.
+
 ### Deploying Updates
 Here is how an issue goes to production:
 1. Create a GitHub Issue.
@@ -35,12 +40,11 @@ Here is how an issue goes to production:
 4. Assignee merges any updates with staging branch.
 5. Assignee comments on an issue that the update is ready for testing and assigns [@bbertucc](http://github.com/bbertucc) to test.
 6. Update is reviewed by [@bbertucc](http://github.com/bbertucc). He may add  [@kevinandrews1](https://github.com/kevinandrews1) or [@alexstine](https://github.com/alexstine) if accessibility needs to be tested.
-7. When update is finalized, [@bbertucc](http://github.com/bbertucc) creates a PR to merge with main branch and assigns [@azdak](https://github.com/azdak), [@wilsuriel03](https://github.com/wilsuriel03), [@alexstine](https://github.com/alexstine) or [@azdak](https://github.com/heythisischris) to review code.
+7. When update is finalized, [@bbertucc](http://github.com/bbertucc) creates a PR to merge with main branch and assigns [@azdak](https://github.com/azdak), [@wilsuriel03](https://github.com/wilsuriel03), [@alexstine](https://github.com/alexstine) or [@heythisischris](https://github.com/heythisischris) to review code.
 8. When approved, update is merged with main branch.
 9. [@bbertucc](http://github.com/bbertucc) will run final tests on production and close issue if update is finished.
 
-### Scheduling Version Releases
-When scheduling a release, everyone needs to agree on a delivery date. Delivery dates are established by creating a detailed list of what will be tested to validate the feature release. Issue [#422](https://github.com/EqualifyEverything/equalify/issues/422) is an example of a detailed list of what is validated for our version one. The date that everyone agrees on is set as a milestone. Related issues are attributed to that milestone. We check in on the progress asynchronously and every contributor meeting.
+*[@bbertucc](http://github.com/bbertucc) will rush any hotfixes outside of deployment process. 
 
 ## Will this handbook evolve?
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
