@@ -27,6 +27,9 @@ Our funds go to bounties. We aim to pay people bounties for getting the work of 
 ## How are bounties budgeted?
 Equalify has a standard rate of $70/hr. This rate was agreed on at our November 18 meeting. Every bountied issue should be estimated, approved, and invoiced at the end of the month accordingly. Note: We've also budgeted $90/hr for Unlocked Freedom Access (Kevin) to provide accessibility testing. Kevin will invoice us at the end of each month for services. 
 
+## Is all work bountied?
+No. Equalify is an Open Source project. Any work not explicitly budgeted and approved via a bounty is considered a voluntary contribution. Volunteer contributions are required to realize a vision of an Open Source Web Accessibility platform. We consider every volunteer contribution a vote for Open Source Web Accessibility.
+
 ## How does Equalify handle change management?
 All issues are in the main Equalify repo at this URL: http://github.com/equalifyEverything/equalify 
 
