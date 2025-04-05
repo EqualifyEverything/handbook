@@ -60,6 +60,9 @@ Here is how an issue goes to production:
 
 *[@bbertucc](http://github.com/bbertucc) will rush any hotfixes outside of deployment process. 
 
+## How is contributor access controlled?
+Contributor is controlled by [@bbertucc](http://github.com/bbertucc). As Equalify grows, the goal is to move toward a shared, community-led decision-making process.
+
 ## Will this handbook evolve?
 Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
 
