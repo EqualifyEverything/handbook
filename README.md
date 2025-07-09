@@ -13,32 +13,14 @@ Equalify is a platform for managing website accessibility focused on improving c
 **We aim to equalify 100 million accessibility issues by 2028.** With over 96% of the million most popular homepages failing WCAG compliance testing[^1], we have a lot of work in front of us!
 
 ## What are Equalify's core values?
-At Equalify, we believe everyone should have access to internet tools and information. Our commitment to access is reflected in our mission (100 million equalified accessibility issues by 2028) and our business practices, typified by this handbook. Additionally, our code will be published under Open Source licenses. Open Source licenses ensure that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join us in equalifying the internet. 
+Equalify is built around the belief that everyone should have access to internet tools and information. Our commitment to Open Source. All Equalify code is published under [approved Open Source licenses](https://opensource.org/licenses). Open Source licenses ensure that our software remains free and open for everyone to use, study, and modify. By making our code publicly available, we hope to inspire others to join us in equalifying the internet. 
 
-## How is Equalify sustained?
-Equalify is commercialized open source software (COSS). We sustain ourselves by selling subscriptions to our managed service, https://equalify.app. We follow a skinny to thin crust open core model, more info on that [here](https://twitter.com/bbertucc/status/1693449703453589898?s=20).
-
-## Who owns Equalify?
-Blake Bertuccelli-Booth ([@bbertucc](https://github.com/bbertucc)) currently has ownership of Equalify, as noted in our [Legal Repo](https://github.com/EqualifyEverything/equalify-legal/). Blake plans to retain ownership until the organization reaches sustainability.
-
-## How does Equalify use funds?
-Our funds go to bounties. We aim to pay people bounties for getting the work of Equalify done. As of now (June 12, 2024), we've budgeted $11k/mo for bounties for the first year, then doubling that number each year after. You can see our budgets in our [Accounting Repo](https://github.com/EqualifyEverything/equalify-accounting/). In Year 5, or whenever we get to sustainability, we'll probably hire people in more traditional employment arrangements. (That will probably also be the time Blake hands over control to someone else, preferably someone who relies on assistive technology.)
-
-## Where are monthly reports of expenses posted?
-[@bbertucc](https://github.com/bbertucc) will report Equalify profit and loss, including his own hours, to the [#accounting channel in Equalify's Slack](https://equalifyapp.slack.com/archives/C076E9DUT09) at the start of every new month. 
-
-## How are bounties budgeted?
-Equalify has a standard rate of $70/hr. This rate was agreed on at our November 18 meeting. Every bountied issue should be estimated, approved, and invoiced accordingly at the end of the month. Note: We've also budgeted $90/hr for Unlocked Freedom Access (Kevin) to provide accessibility testing. Kevin will invoice us for services at the end of each month.
-
-## How is payment on bounties made?
-Anyone assigned an approved bounty must send an invoice for hours worked. Invoices should include the number of hours, date, and URL of where approval for hours was given. [@bbertucc](https://github.com/bbertucc) will pay assignee via Gusto and update issue with note on payment.
-
-## Is all work bountied?
-No. Equalify is an Open Source project. Any work not explicitly budgeted and approved via a bounty is considered a voluntary contribution. Volunteer contributions are required to realize a vision of an Open Source Web Accessibility platform. We consider every volunteer contribution a vote for Open Source Web Accessibility.
+## How is Equalify maintained?
+Equalify is maintained by a team from the University of Chicago Illinois (UIC) Technology Solutions. More information can be found on the [UIC IT Accessibility Engineering page](https://it.uic.edu/accessibility/engineering/).
 
 ## How does Equalify handle project management?
 - **Issue Reported in One Repo:** All issues are in the main Equalify repo at this URL: http://github.com/equalifyEverything/equalify
-- **Two-Week Sprint Cycles**: Each issue should contain work that fits into two-weeks. Equalify [milestones](https://github.com/EqualifyEverything/equalify/milestones) align with each sprint cycle.
+- **One-Week Sprint Cycles**: Each issue should contain work that fits into two-weeks. Equalify [milestones](https://github.com/EqualifyEverything/equalify/milestones) align with each sprint cycle.
 - **[@bbertucc](https://github.com/bbertucc) is Project Manager**: Tag `bbertucc` with any questions that need management.
 
 ### Development Process
@@ -64,9 +46,9 @@ Here is how an issue goes to production:
 Contributor is controlled by [@bbertucc](http://github.com/bbertucc). As Equalify grows, the goal is to move toward a shared, community-led decision-making process.
 
 ## Will this handbook evolve?
-Yes! Equalify Inc. was founded recently (August 7, 2023). As we meet new challenges, this document will evolve.
+Yes! Many changes have happened since Equalify was launched. Good tech evolves!
 
 ## How do I get in touch with Equalify?
-Post additional questions, bugs, and enhancement requests under the [main repo's "Issues" tab (linked)](https://github.com/EqualifyApp/equalify/issues). Your feedback makes Equalify a better organization. We also use Slack for folks building Equalify. You can join our Slack here: https://join.slack.com/t/equalifyapp/shared_invite/zt-1sfbgf0fa-CzIHlbFOs0Ww1iSTK4LQ2w
+Post additional questions, bugs, and enhancement requests under the [main repo's "Issues" tab (linked)](https://github.com/EqualifyApp/equalify/issues). Your feedback makes Equalify a better organization. We also use Slack for folks building Equalify.
 
 [^1]: https://webaim.org/projects/million/
